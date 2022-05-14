@@ -1,5 +1,5 @@
 <h2>Demo:
-<a link="https://a-minter.github.io">a-minter.github.io</a>
+<a href="https://a-minter.github.io">a-minter.github.io</a>
 </h2>
 
 <h2>UI:</h2>
