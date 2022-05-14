@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mjol-bg {
+    background: #e0feff;
+    background-image: radial-gradient(at 85% 15%, hsla(168, 100%, 63%, 1) 0, transparent 17%),
+    radial-gradient(at 24% 65%, hsla(187, 100%, 67%, 1) 0, transparent 33%);
+}
