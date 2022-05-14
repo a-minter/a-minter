@@ -1,0 +1,1 @@
+export const NFT_CONTRACT_ID = "archway1vrhksyqn38ptd2srpjwe9tdevg60f7hexjsd6larndvn0u50e0wsvcjuzj";
